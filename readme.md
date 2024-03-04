@@ -1,2 +1,2 @@
 ## Demo
-![Demo gif](https://imgur.com/BDmJCPW)
+<img src="https://imgur.com/BDmJCPW">
