@@ -1,2 +1,2 @@
 ## Demo
-![Imgur Image](https://imgur.com/BDmJCPW.gif)
+<img src="https://imgur.com/BDmJCPW.gif" alt="Alt Text">
