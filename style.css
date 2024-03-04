@@ -1,0 +1,39 @@
+body{
+    margin-top: 250px;
+    text-align: center;
+    background-color: black;
+}
+button{
+    margin: 5px;
+    border: 0px solid;
+}
+.keypad button{
+    font-size: 33px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+.black-btn{
+    color: white;
+    background-color: #333333;
+}
+.black-btn:hover{
+    background-color: rgb(77, 77, 77);
+}
+.orange-btn{
+    color: white;
+    background-color: #FF9F0C;
+}
+.orange-btn:hover{
+    background-color: rgb(255, 187, 0);
+}
+.grey-btn{
+    color: black;
+    background-color: #A5A5A5;
+}
+.grey-btn:hover{
+    background-color: grey;
+}
+#zero-btn{
+    width: 215px;
+}
